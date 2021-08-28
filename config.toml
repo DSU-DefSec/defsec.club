@@ -1,0 +1,5 @@
+baseURL = "https://defsec.club/"
+languageCode = "en-us"
+title = "DSU DefSec Club"
+publishDir = "docs"
+disableHugoGeneratorInject = true

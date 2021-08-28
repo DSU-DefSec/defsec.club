@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+	<!-- Yeah, I bet you like this artisinal HTML. -->
+	<head>
+		<meta charset="utf-8"/>
+		<style>
+			body {
+				font-family: Helvetica, sans-serif;
+				line-height: 1.7rem;
+				margin: 5rem 15%;
+			}
+			h1, span {
+				color: #00A9E0;
+			}
+			h1 {
+				margin-bottom: 0.5rem;
+			}
+			.logo {
+				width: 20%;
+				max-width: 300px;
+				min-width: 100px;
+				float: right;
+			}
+			img {
+				width: auto;
+				max-width: 100%;
+				min-width: 300px;
+				display: block;
+				margin: 0 auto;
+			}
+			ul {
+				margin: 0.2rem 0 0.5rem 0;
+			}
+			li p {
+				margin: 0;
+			}
+			p {
+				margin: 1.2rem 0 0.2rem 0;
+			}
+
+		</style>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>DSU DefSec Club</title>
+	</head>
+	<body>
+
+<!-- Main section -->
+{{ if .Title }}
+<h1>{{ .Title }}</h1>
+<a href="/">return home</a>
+{{ end }}
+
+{{ block "main" . }}
+{{ end }}
+
+	</body>
+</html>
+
