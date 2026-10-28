@@ -10,12 +10,12 @@ Welcome! Have you heard that Linux is confusing? Come learn more about what Linu
 
 ## Our Leader
 
-Taylor Myers  
-Have a topic you want to hear about? Let Taylor know!
+Ethan Clark  
+Have a topic you want to hear about? Let Ethan know!
 
 ## Meeting Times
 
-***Regular meetings:*** Alternating Tuesdays from 6:00 PM to 7:00 PM CT in BIT 213. (Alternates with Defensive Security Club)
+***Regular meetings:*** Every so often during the regular Computer Club meeting time (6 PM on Tuesdays)
 
 ## General Resources
 
