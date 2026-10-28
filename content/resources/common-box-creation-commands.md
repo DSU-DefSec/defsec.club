@@ -1,3 +1,7 @@
+---
+title: "Common Box Creation Resources"
+---
+
 # Common Box Creation Resources
 
 Windows reset firewalls:

@@ -1,3 +1,7 @@
+---
+title: "Connecting to the Competition Environment"
+---
+
 # Connecting to the Competition Environment
 
 When competing in one of our events or participating in a lab, you have the choice of connecting via [OpenVPN](/resources/vpn/) or using the [vCloud interface](/resources/ialab/).

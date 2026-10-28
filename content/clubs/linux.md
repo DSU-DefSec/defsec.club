@@ -1,3 +1,7 @@
+---
+title: "Linux Club"
+---
+
 # Linux Club
 
 ## About Us

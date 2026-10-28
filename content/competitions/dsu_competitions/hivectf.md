@@ -1,3 +1,7 @@
+---
+title: "HiveCTF"
+---
+
 # HiveCTF
 
 HiveCTF is a (planned to be) yearly competition run by the CTF Club and developed by its leaders and members. It is a beginner-friendly CTF covering all the standard categories, but we like to spice it up with unique challenges.

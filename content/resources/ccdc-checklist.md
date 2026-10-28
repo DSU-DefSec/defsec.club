@@ -1,3 +1,7 @@
+---
+title: "CCDC Checklist"
+---
+
 # CCDC Checklist
 
 This is a sample checklist for [CCDC](/competitions/dsu_competitions/dcdc/)-style competitions.

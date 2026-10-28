@@ -1,3 +1,7 @@
+---
+title: "Competition Infrastructure"
+---
+
 # Competition Infrastructure
 
 Refer to the [Networks](/resources/ialab/networks/) diagram and information.

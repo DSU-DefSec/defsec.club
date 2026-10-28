@@ -1,3 +1,7 @@
+---
+title: "Computer Club Privacy Policy"
+---
+
 # Computer Club Privacy Policy
 
 Last Updated: `2023-09-04`

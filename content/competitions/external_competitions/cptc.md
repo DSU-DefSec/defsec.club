@@ -1,3 +1,7 @@
+---
+title: "CPTC"
+---
+
 # CPTC
 
 The Collegiate Penetration Testing Competition (CPTC) is a red-team focused event that challenges teams of students to demonstrate their skills in ethical hacking and penetration testing. In this competition, participants act as security professionals hired by a fictitious organization to assess and strengthen its cybersecurity defenses.

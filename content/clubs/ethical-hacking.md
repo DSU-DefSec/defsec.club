@@ -1,3 +1,7 @@
+---
+title: "Ethical Hacking Club"
+---
+
 # Ethical Hacking Topic
 
 ## About Us

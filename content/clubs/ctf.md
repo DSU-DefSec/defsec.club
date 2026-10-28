@@ -1,3 +1,7 @@
+---
+title: "CTF Club"
+---
+
 # Capture The Flag (CTF) Club
 
 ## About Us

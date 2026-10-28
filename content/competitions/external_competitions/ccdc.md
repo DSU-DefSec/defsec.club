@@ -1,3 +1,7 @@
+---
+title: "CCDC"
+---
+
 # CCDC
 
 **CCDC** (the Collegiate Cyber Defense Competition) is a blue-team competition focusing fully on active network and system defense. The premise of the competition is that each team is a group of IT Security contractors brought into a business to clean up the mess left by the previous security team and harden the networks of the company.

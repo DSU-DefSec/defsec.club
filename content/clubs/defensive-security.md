@@ -1,3 +1,7 @@
+---
+title: "Defensive Security Club"
+---
+
 # Defensive Security (DefSec) Topic
 
 ## About Us

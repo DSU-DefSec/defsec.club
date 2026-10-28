@@ -1,3 +1,7 @@
+---
+title: "DefSec VPN"
+---
+
 # DefSec VPN
 
 We run a VPN to allow for network level access into the [IALab](/resources/ialab/).

@@ -1,3 +1,7 @@
+---
+title: "Injects"
+---
+
 # Injects
 
 Injects, or "business tasks", or "anomalies", are tasks given to competing teams that ask them, typically, to solve some challenge, to answer some business-related question, to provide information on their network, or to modify the functionality of their systems.

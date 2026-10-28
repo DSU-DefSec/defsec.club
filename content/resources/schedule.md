@@ -1,3 +1,7 @@
+---
+title: "Schedule"
+---
+
 # Schedule
 
 The schedule is the source of truth for our meetings and presentations.

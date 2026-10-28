@@ -1,3 +1,7 @@
+---
+title: "Competitive Programming Club"
+---
+
 # Competitive Programming Club
 
 ## About Us

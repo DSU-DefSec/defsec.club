@@ -1,3 +1,7 @@
+---
+title: "CyberConquest"
+---
+
 # CyberConquest
 
 Cyber Conquest is a purple-team cybersecurity competition (that is, it combines both offensive and defensive skillsets) into one king-of-the-hill contest. Teams are tasked with defending their own infrastructure while attacking other team’s infrastructure to gain points. Defensive points are gained by keeping your services up and keeping other teams off your systems, and offensive points are gained by planting your flag on opponent’s systems.

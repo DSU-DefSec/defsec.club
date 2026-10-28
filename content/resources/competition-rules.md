@@ -1,3 +1,7 @@
+---
+title: "Competition Rules"
+---
+
 # Rules
 
 ## Definition of Terms

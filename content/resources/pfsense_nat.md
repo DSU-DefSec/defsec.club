@@ -1,3 +1,7 @@
+---
+title: "NAT on pfSense"
+---
+
 # NAT on pfSense
 This assumes that you have a basic knowledge of subnetting and NAT.
 
