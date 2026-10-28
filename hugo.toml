@@ -1,0 +1,21 @@
+baseURL = 'https://defsec.club/'
+locale = 'en-US'
+title = 'DSU Computer Club'
+theme = 'hugo-book'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[module]
+  [[module.mounts]]
+    source = 'content/static'
+    target = 'static/static'
+
+[params]
+  BookTheme = 'auto'
+  BookToC = true
+  BookBreadcrumbs = true
+  BookSearch = true
+  BookSection = '/'
