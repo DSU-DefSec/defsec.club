@@ -1,0 +1,78 @@
+{{ define "title" }}
+{{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+
+<img class="logo" src="/defsec.svg" alt="Defensive Security Club Logo"/>
+<h1>DSU DefSec Club</h1>
+
+Hello! We are the Defensive Security Club for <a href="https://dsu.edu">Dakota State University</a>. 
+<br>
+We study, practice, compete in, and create competitions related to defensive cyber security. 
+
+<br>
+<br>
+<i>Contact</i>
+<ul>
+	<li>
+		<b>Everyone</b>: dsu-defsec (at) dsu.edu
+	</li>
+	<li>
+		<b>Advisor</b>: cody.welu (at) dsu.edu
+	</li>
+</ul>
+<br>
+
+<i>Officers</i>
+<ul>
+	<li>
+		<span><b>Austen</b></span> (slack: <i>Austen</i>)
+	</li>
+	<li>
+		<span><b>Gaelin</b></span> (slack: <i>Gaelin</i>)
+	</li>
+	<li>
+		<span><b>Shane</b></span> (slack: <i>shane</i>)
+	</li>
+</ul>
+<br>
+
+<i>Other Places</i>
+<ul>
+	<li>
+		<a href="http://discord.defsec.club"><b>Discord</b></a>
+	</li>
+	<li>
+		<a href="http://schedule.defsec.club"><b>Schedule</b></a>
+	</li>
+	<li>
+		<a href="http://drive.defsec.club"><b>Google Drive</b></a>
+	</li>
+	<li>
+		<a href="http://youtube.defsec.club"><b>YouTube</b></a>
+	</li>
+</ul>
+<br>
+
+
+<i>Places on this Site</i>
+<ul>
+{{ range .Site.RegularPages }}
+    {{ if .Date.IsZero }}
+    <li>
+	<b>{{ .Title }}</b> {{ if .Params.subtitle }}({{ .Params.subtitle }}){{ end }}: <a href="{{ .Permalink }}">link</a>
+    </li>
+    {{ end }}
+{{ end }}
+</ul>
+<br>
+
+<i>Site Posts</i>
+<ul>
+{{ range .Site.RegularPages }}
+    {{ if not .Date.IsZero }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a> ({{ .Date.Format "2006-01-02" }})</li>
+    {{ end }}
+{{ end }}
+</ul>
+{{ end }}
