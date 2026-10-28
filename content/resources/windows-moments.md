@@ -1,0 +1,21 @@
+# Windows Moments
+
+- Windows 8
+- If you rename a SharePoint folder that is associated with a teams channel, then it makes a new folder for the channel, and they are both undeletable.
+- [PassTheHash](https://en.m.wikipedia.org/wiki/Pass_the_hash)
+- [VelvetSweatshop](https://www.tripwire.com/state-of-security/velvetsweatshop-technique-used-by-attack-campaign-to-deliver-limerat)
+- There is a python3.exe binary in windows 10, that when executed brings you to a windows store page to download python. Sometimes it takes precedence over python installed manually via MSI
+- Ads in system settings
+- You can only install windows 11 on a machine that has approximately 3 arbitrary attributes
+- [Adding 'features'](https://answers.microsoft.com/en-us/outlook_com/forum/all/how-to-see-sender-email-address/b20ad403-b6e6-4bfa-9445-e2e1037201e4) ![Unbreak what you broke](/static/images/unbreak-what-you-broke.png)
+- Active hours being a thing on windows server. Ah yes my HA server is only in use from 9am-5pm
+- "If you click no and open recycling bin anyways, Windows will crash. Im going to leave it and call it a feature" ~ An actual windows dev (source?)
+- File search settings on windows 11 are under the 'Privacy & Security' section
+- [Some weird obsession with taking up as much of your task bar as possible even if you manually disable it](https://www.reddit.com/r/Windows10/comments/176zn1a/search_box_has_been_added_to_your_taskbar_want_to/)
+- Python in excel... because we all saw how well macros went
+- [Store passwords using reversible encryption](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/security-policy-settings/store-passwords-using-reversible-encryption)
+- After logging in: ![Do you trust DSU?](/static/images/do_you_trust_dsu.png)
+- Microsoft Chairman and CEO announcing that they are "[prioritizing security above all else](https://blogs.microsoft.com/blog/2024/05/03/prioritizing-security-above-all-else/)" a month before Microsoft "Recall" [bypassed and security review and made bad press in Beta release](https://www.theverge.com/2024/6/3/24170305/microsoft-windows-recall-ai-screenshots-security-privacy-issues) ![Microsoft security](/static/images/ms_sec.png)
+- "Let's rewrite the entire operating system around AI." <https://futurism.com/artificial-intelligence/microsoft-windows-11-ai-controlled>
+- "Patch Tuesday update makes Windows refuse to shutdown" <https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/>
+- You can set up single app kiosk mode from the gui for the defender control panel (lock the machine to only be able to use defender control panel) but you need registry to lock it into any non micro$oft store app.
